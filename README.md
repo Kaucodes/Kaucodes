@@ -4,7 +4,6 @@
 💡 **Looking to Collaborate on:** Security & Web Projects   
 📢 **Twitter/X:** [@RESCONROD](https://twitter.com/RESCONROD)  
 
-😄 **Pronouns:** She/Her  
 ⚡ **Fun Fact:** Still debugging my life...  
 
 🚀 *Let’s connect & build something awesome!*  
