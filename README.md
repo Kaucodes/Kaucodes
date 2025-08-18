@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Kaucodes  
+# 👋 Hi, I’m KT
 
 🔍 **Interests:** Cyber Security & Web Development  
 💡 **Looking to Collaborate on:** Security & Web Projects   
