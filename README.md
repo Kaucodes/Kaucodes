@@ -7,13 +7,11 @@
 <h3 align="center">I measure love in lines of logic and meme references🚀</h3>
 
 ###
-###
 
 🪄 Transitioning my career into Tech because I truly enjoy programming.  
 🩵 Dreaming of studying Computer Science at university one day.  
 💗 By day, I work in my field of study — by night, I code passionately.  
 🌐 My first love is **Cybersecurity**, but right now I'm deeply driven by **Web Programming**!
-
 ###
 ###
 
@@ -47,6 +45,8 @@
 ###
 
 ### 🌍 Connect with me
+
+###
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kaiteahmad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kauthar-ahmad-0b2941226) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ScaryGold9641)
 
