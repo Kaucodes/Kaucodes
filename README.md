@@ -23,5 +23,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaucodes&layout=compact&theme=radical)
 
 ---
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+---
 
 ✨ _Always learning, always building._
