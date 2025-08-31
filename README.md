@@ -6,7 +6,7 @@
 
 <h3 align="center">I measure love in lines of logic and meme references🚀</h3>
 
-____
+###
 ###
 
 🪄 Transitioning my career into Tech because I truly enjoy programming.  
@@ -14,6 +14,7 @@ ____
 💗 By day, I work in my field of study — by night, I code passionately.  
 🌐 My first love is **Cybersecurity**, but right now I'm deeply driven by **Web Programming**!
 
+###
 ###
 
 ### 📊 GitHub Stats:
