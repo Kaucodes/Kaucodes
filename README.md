@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">I measure love in lines of logic and meme references🚀</h3>
+<h5 align="center"><i>I measure love in lines of logic and meme references🚀</i></h5>
 
 ###
 
