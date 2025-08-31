@@ -12,7 +12,7 @@
 🩵 Dreaming of studying Computer Science at university one day.  
 💗 By day, I work in my field of study — by night, I code passionately.  
 🌐 My first love is **Cybersecurity**, but right now I'm deeply driven by **Web Programming**!
-###
+
 ###
 
 ### 📊 GitHub Stats:
@@ -62,11 +62,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ---
-✨ <h1 align="center"><i>Always learning, always building.</i></h1>
+ <h3 align="center"><i>Always learning, always building.</i></h3>
 
 ---
