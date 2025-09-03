@@ -53,7 +53,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaucodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
- <h5 align="center"><i>🪄 Always learning, always building.</i></h5>
+ <h5 align="center"><i>🪄 I code for fun and hack for joy!</i></h5>
 
 ###
 
