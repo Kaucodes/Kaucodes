@@ -53,14 +53,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaucodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-
-<h2 align="left"> 🏆 GitHub Trophies</h2>
-
-###
-
-![](https://github-profile-trophy.vercel.app/?username=Kaucodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-###
  <h5 align="center"><i>🪄 I code for fun and hack for joy!</i></h5>
 
 ###
