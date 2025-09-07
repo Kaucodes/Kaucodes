@@ -1,6 +1,0 @@
-{
-  "enabled": true,
-  "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-  "timeZone": "America/New_York",
-  "hideElements": ["Footer"]
-}
