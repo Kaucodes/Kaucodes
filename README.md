@@ -11,7 +11,7 @@
 🪄 Transitioning my career into Tech because I truly enjoy programming.  
 🩵 Dreaming of studying Computer Science at university one day.  
 💗 By day, I work in my field of study — by night, I code passionately.  
-🌐 My first love is **Cybersecurity**, but right now I'm deeply driven by **Web Programming**!
+🌐 My first love is ![**Cybersecurity**](https://tryhackme.com/p/Kaucodes), but right now I'm deeply driven by **Web Programming**!
 
 ###
 
