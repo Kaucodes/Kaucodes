@@ -35,7 +35,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
  ### CyberSecurity
- !(<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4717152" style='border:none;'></iframe>)
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4717152" style='border:none;'></iframe>
  
 ###
 
